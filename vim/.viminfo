@@ -1,0 +1,702 @@
+# Цей файл автоматично створений Vim 9.0.
+# Можете редагувати, але ОБЕРЕЖНО!
+
+# Viminfo version
+|1,4
+
+# Значення 'encoding' під час створення цього файлу
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ост. Зразок пошуку:
+~MSle0/tab
+
+# Ост. Заміна Зразок пошуку:
+~MSle0~&intro
+
+# Остання заміна:
+$
+
+# Попередні команди (від найновіших):
+:wq
+|2,0,1660395048,,"wq"
+:q
+|2,0,1660394417,,"q"
+:q!
+|2,0,1660295602,,"q!"
+:w
+|2,0,1660146825,,"w"
+:tabe posts.html
+|2,0,1660146520,,"tabe posts.html"
+:tabe index.html
+|2,0,1660146513,,"tabe index.html"
+:tabe creat_article.html
+|2,0,1660146503,,"tabe creat_article.html"
+:tabe base.html
+|2,0,1660146487,,"tabe base.html"
+:tabe about.html
+|2,0,1660144828,,"tabe about.html"
+:q1
+|2,0,1659700631,,"q1"
+:PluginInstall
+|2,0,1659607125,,"PluginInstall"
+:s/intro/text/g
+|2,0,1659526668,,"s/intro/text/g"
+:! rm oldname
+|2,0,1659526186,,"! rm oldname"
+:e#
+|2,0,1659526174,,"e#"
+:w about.html
+|2,0,1659526169,,"w about.html"
+:tabe about.index
+|2,0,1659522087,,"tabe about.index"
+:set paste
+|2,0,1659521533,,"set paste"
+:tabe static/main.css
+|2,0,1659520601,,"tabe static/main.css"
+:tabe test.html
+|2,0,1659511757,,"tabe test.html"
+:set omnifunc=htmlcomplete#CompleteTags
+|2,0,1659511358,,"set omnifunc=htmlcomplete#CompleteTags"
+:CocInstall coc-html-css-support
+|2,0,1659511145,,"CocInstall coc-html-css-support"
+:set omnifunc=csscomplete#CompleteCSS
+|2,0,1659510852,,"set omnifunc=csscomplete#CompleteCSS"
+::q
+|2,0,1659462807,,":q"
+:PlagingInsta
+|2,0,1659462253,,"PlagingInsta"
+:PlugInstall
+|2,0,1659462002,,"PlugInstall"
+
+# Попередні шукані рядки (від найновіших):
+? \$\(cursor\|select\)\$
+|2,1,1660146143,,"\\$\\(cursor\\|select\\)\\$"
+? intro
+|2,1,1659526668,,"intro"
+?/tab
+|2,1,1659521689,47,"tab"
+? @$
+|2,1,1659520584,,"@$"
+
+# Попередні вирази (від найновіших):
+
+# Попередні введені рядки (від найновіших):
+@div
+|2,3,1659607515,,"div"
+@ul>li*
+|2,3,1659607450,,"ul>li*"
+
+# Попередні Рядок налагодження (від найновіших):
+
+# Регістри:
+"0	LINE	0
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Home</title>
+	</head>
+	<body>
+		
+	</body>
+	</html>
+|3,0,0,1,10,0,1660144833,"<!DOCTYPE html>","<html lang=\"en\">","<head>","	<meta charset=\"UTF-8\">","	<title>Home</title>","</head>","<body>","	","</body>","</html>"
+""1	LINE	0
+	hello
+|3,1,1,1,1,0,1660295597,"hello"
+"2	LINE	0
+	pr
+|3,0,2,1,1,0,1660295597,"pr"
+"3	LINE	0
+	hello
+|3,0,3,1,1,0,1660295596,"hello"
+"4	LINE	0
+	{% for 
+|3,0,4,1,1,0,1660146796,"{% for "
+"5	LINE	0
+		{% endfor %}
+|3,0,5,1,1,0,1660146549,"	{% endfor %}"
+"6	LINE	0
+		<h1>{{num}}</h1>
+|3,0,6,1,1,0,1660146548,"	<h1>{{num}}</h1>"
+"7	LINE	0
+		{% for num in my_list %}	
+|3,0,7,1,1,0,1660146547,"	{% for num in my_list %}	"
+"8	LINE	0
+			<h1>
+|3,0,8,1,1,0,1660145573,"		<h1>"
+"9	LINE	0
+	select * from data.base
+|3,0,9,1,1,0,1660116739,"select * from data.base"
+"-	CHAR	0
+	:
+|3,0,36,0,1,0,1660146568,":"
+
+# Помітки:
+'0  50  0  ~/.tmux.conf
+|4,48,50,0,1660395048,"~/.tmux.conf"
+'1  1  0  /usr/bin/tmux
+|4,49,1,0,1660394417,"/usr/bin/tmux"
+'2  1  0  ~/test
+|4,50,1,0,1660295602,"~/test"
+'3  32  24  ~/oracle/SQL/funct
+|4,51,32,24,1660289139,"~/oracle/SQL/funct"
+'4  10  0  ~/delete/templates/index.html
+|4,52,10,0,1660146853,"~/delete/templates/index.html"
+'5  12  0  ~/delete/templates/index.html
+|4,53,12,0,1660146798,"~/delete/templates/index.html"
+'6  9  0  ~/delete/templates/index.html
+|4,54,9,0,1660146798,"~/delete/templates/index.html"
+'7  12  0  ~/python/flask/block/templates/posts.html
+|4,55,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+'8  8  14  ~/python/flask/itvd/templates/about.html
+|4,56,8,14,1660145575,"~/python/flask/itvd/templates/about.html"
+'9  1  0  ~/test.sql
+|4,57,1,0,1660116740,"~/test.sql"
+
+# Список переходів (від найновіших):
+-'  50  0  ~/.tmux.conf
+|4,39,50,0,1660395048,"~/.tmux.conf"
+-'  1531  0  ~/.tmux.conf
+|4,39,1531,0,1660395044,"~/.tmux.conf"
+-'  2  0  ~/.tmux.conf
+|4,39,2,0,1660395043,"~/.tmux.conf"
+-'  1  0  ~/.tmux.conf
+|4,39,1,0,1660395042,"~/.tmux.conf"
+-'  1  0  /usr/bin/tmux
+|4,39,1,0,1660394417,"/usr/bin/tmux"
+-'  1  0  /usr/bin/tmux
+|4,39,1,0,1660394417,"/usr/bin/tmux"
+-'  1  0  ~/test
+|4,39,1,0,1660295602,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1660295602,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1660295602,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1660295602,"~/test"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  32  24  ~/oracle/SQL/funct
+|4,39,32,24,1660289139,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  1  0  ~/oracle/SQL/funct
+|4,39,1,0,1660288150,"~/oracle/SQL/funct"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  10  0  ~/delete/templates/index.html
+|4,39,10,0,1660146853,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  1  0  ~/delete/templates/index.html
+|4,39,1,0,1660146803,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/delete/templates/index.html
+|4,39,12,0,1660146798,"~/delete/templates/index.html"
+-'  9  0  ~/delete/templates/index.html
+|4,39,9,0,1660146798,"~/delete/templates/index.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+-'  12  0  ~/python/flask/block/templates/posts.html
+|4,39,12,0,1660146590,"~/python/flask/block/templates/posts.html"
+
+# Попередні помітки в файлах (від найновіших):
+
+> ~/.tmux.conf
+	*	1660395047	0
+	"	50	0
+
+> /usr/bin/tmux
+	*	1660394416	0
+	"	1	0
+
+> ~/test
+	*	1660295597	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/oracle/SQL/funct
+	*	1660289137	0
+	"	32	24
+	^	32	25
+	.	32	25
+	+	32	25
+
+> ~/delete/templates/index.html
+	*	1660146825	0
+	"	10	0
+	^	10	0
+	.	10	0
+	+	1	0
+	+	12	21
+	+	12	12
+	+	12	0
+	+	8	14
+	+	12	0
+	+	11	11
+	+	10	0
+
+> ~/python/flask/block/templates/posts.html
+	*	1660146522	0
+	"	12	0
+	^	10	22
+	.	10	21
+	+	1	0
+	+	5	0
+	+	4	28
+	+	8	28
+	+	19	0
+	+	17	11
+	+	10	0
+	+	17	30
+	+	17	31
+	+	17	0
+	+	11	31
+	+	11	1
+	+	11	31
+	+	16	0
+	+	12	6
+	+	12	2
+	+	12	13
+	+	13	18
+	+	14	27
+	+	12	16
+	+	15	0
+	+	15	22
+	+	16	0
+	+	15	52
+	+	17	0
+	+	9	0
+	+	17	0
+	+	18	0
+	+	10	21
+
+> ~/python/flask/block/templates/index.html
+	*	1660146516	0
+	"	3	0
+
+> ~/python/flask/block/templates/creat_article.html
+	*	1660146505	0
+	"	8	0
+	^	9	38
+	.	9	37
+	+	1	0
+	+	4	8
+	+	8	45
+	+	15	0
+	+	8	0
+	+	14	7
+	+	10	59
+	+	16	0
+	+	10	59
+	+	15	0
+	+	10	64
+	+	11	30
+	+	15	0
+	+	11	35
+	+	16	3
+	+	16	0
+	+	11	56
+	+	12	0
+	+	14	0
+	+	13	96
+	+	10	69
+	+	11	60
+	+	12	57
+	+	11	67
+	+	12	0
+	+	13	24
+	+	13	21
+	+	9	29
+	+	11	0
+	+	9	37
+
+> ~/python/flask/block/templates/base.html
+	*	1660146500	0
+	"	13	0
+	^	20	39
+	.	20	38
+	+	5	6
+	+	37	0
+	+	5	106
+	+	5	0
+	+	5	106
+	+	34	0
+	+	33	216
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	17	33
+	+	18	38
+	+	21	0
+	+	36	0
+	+	38	0
+	+	37	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	19	88
+	+	9	0
+	+	6	0
+	+	20	0
+	+	20	38
+
+> ~/python/flask/block/templates/about.html
+	*	1660146499	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/python/flask/itvd/templates/about.html
+	*	1660145575	0
+	"	8	14
+	^	8	15
+	.	8	14
+	+	1	0
+	+	5	12
+	+	8	14
+
+> ~/python/flask/itvd/templates/index.html
+	*	1660145574	0
+	"	10	0
+	.	10	0
+	+	1	0
+	+	8	0
+	+	5	11
+	+	8	21
+	+	9	20
+	+	11	12
+	+	10	0
+
+> ~/test.sql
+	*	1660116739	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/python/index.html
+	*	1659700631	0
+	"	8	0
+	.	8	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	8	0
+
+> ~/.vimrc
+	*	1659682759	0
+	"	45	2
+	^	28	3
+	.	26	6
+	+	1	0
+	+	1	1
+	+	1	0
+	+	1	30
+	+	1	0
+	+	1	53
+	+	2	0
+	+	1	0
+	+	1	54
+	+	95	57
+	+	96	0
+	+	91	0
+	+	90	0
+	+	74	0
+	+	73	0
+	+	76	0
+	+	71	0
+	+	67	0
+	+	74	17
+	+	92	0
+	+	36	0
+	+	32	37
+	+	32	0
+	+	33	32
+	+	89	12
+	+	56	10
+	+	63	0
+	+	57	12
+	+	58	15
+	+	64	16
+	+	34	23
+	+	1	0
+	+	61	19
+	+	62	16
+	+	26	6
+
+> ~/index.html
+	*	1659607578	0
+	"	8	25
+	^	8	26
+	.	8	25
+	+	1	0
+	+	9	6
+	+	9	13
+	+	9	0
+	+	9	4
+	+	9	0
+	+	7	0
+	+	9	0
+	+	9	4
+	+	9	0
+	+	8	25
+
+> ~/python/flask/block/templates/about.index
+	*	1659526169	0
+	"	8	22
+	^	8	23
+	.	8	22
+	+	1	0
+	+	4	13
+	+	8	22
+
+> ~/lol.html
+	*	1659521549	0
+	"	12	0
+	^	12	0
+	.	12	0
+	+	1	0
+	+	12	0
+
+> ~/python/flask/block/static/main.css
+	*	1659521225	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/test.css
+	*	1659511831	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	1	0
+	+	1	5
+	+	3	0
+	+	1	55
+	+	2	2
+	+	1	0
+	+	2	0
+	+	1	5
+	+	3	0
+
+> ~/test.html
+	*	1659511829	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	21
+	+	1	0
+
+> ~/python/chat/server/server.py
+	*	1659463530	0
+	"	2	0
+
+> ~/.viminfo
+	*	1659461745	0
+	"	36	0
+
+> ~/.config/bspwm/bspwmrc
+	*	1659360858	0
+	"	23	38
+	^	23	47
+	.	23	38
+	+	23	38
+
+> ~/python/git/test_1/text
+	*	1659347975	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/.bashrc
+	*	1659003684	0
+	"	9	9
+	^	10	50
+	.	9	9
+	+	10	28
+	+	9	9
+
+> ~/.config/alacritty/alacritty.yml
+	*	1659002958	0
+	"	131	0
+
+> ~/.bash_profile
+	*	1659002853	0
+	"	6	5
+	^	6	6
+	.	6	5
+	+	6	5
+
+> ~/.xinitrc
+	*	1659002192	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
